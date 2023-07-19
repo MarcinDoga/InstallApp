@@ -1,43 +1,240 @@
-Vrijeme pokretanja:
-Sjajno! :D
-Dobro!
-Slabo!
-To nije moguće!
-Način animacije: statički, slika
-Način animacije: svakih 30 sekundi
-Način animacije: svakih
- sekundi
-Način animacije: svakih
- sekundi
-Način animacije: svakih
- sekundi
-Jezik
-Radnje
-Ograničenje: 0/300
-Preuzmi kolekcije pozadina
-Nestanak aplikacije
-Trajanje slajda
-Nema pristupa poslužitelju!
-Uvjeti i odredbe
-Napiši\nadministratoru
-Sadržaj vaše poruke:
-Pošalji
-Središte aplikacije
-Stvori datoteke aplikacije
-Postavke
-Poljski
-Engleski
-Više...
-Onemogući pregled
-Moj društveni\nmedijski sadržaj
-Prilagodi izgled\naplikacije
-Natrag
-Tamni način
-Svijetli način
-Spremi
-Najnoviji video na kanalu: Marcin Dg
-Isključi pregled
-Uključi pregled
-Prikaži\nPromjene
-Jezik sustava: 
-(Ovaj jezik nije dostupan)
+{
+    "AthermoBase Hub": {
+    "button1": "Nazad",
+    "button2": "Moji društveni\nmediji",
+    "button3": "Prilagodi izgled\naplikacije",
+    "button4": "Kontaktiraj\nadministratora",
+    "button5": "Pošalji",
+    "button8": "Spremi",
+    "button9": "Tamni način",
+    "button10": "Svijetli način",
+    "label1": "Postavke",
+    "label3_1": "Jezik sustava",
+    "label3_2": "(Ovaj jezik nije dostupan)",
+    "label9": "Vrijeme pokretanja",
+    "label10": "Sadržaj vaše poruke:",
+    "label11": "Nema pristupa poslužitelju!",
+    "label15_1": "Odlično! :D",
+    "label15_2": "Sve je dobro!",
+    "label15_3": "Slabo!",
+    "label15_4": "Ovo nije moguće!",
+    "label20": "Trajanje pozadinske prezentacije",
+    "label21": "Izblijedjivanje aplikacije",
+    "label23_1": "Način animacije: statički, slika",
+    "label23_2": "Način animacije: animacija svakih 30 sekundi",
+    "label23_3": "Način animacije: animacija svakih ",
+    "label23_4": " sekundi",
+    "label23_5": "Način animacije: animacija svakih ",
+    "label23_6": " sekundu",
+    "label23_7": "Način animacije: animacija svakih ",
+    "label23_8": " sekundi",
+    "label25": "Ograničenje: 0/300",
+    "linkLabel2": "Uvjeti i odredbe",
+    "metroButton3": "Preuzmi kolekcije pozadina",
+    "metroButton4": "Radnje",
+    "metroButton5": "Jezik",
+    "rjButton1": "AthermoBase Hub",
+    "rjButton2": "Najnoviji film na kanalu: Marcin Dg",
+    "rjButton3": "Stvori aplikacijske datoteke",
+    "rjButton7": "Poljski",
+    "rjButton8": "Engleski",
+    "rjButton10": "Više...",
+    "rjButton14": "Onemogući pregled",
+    "rjButton16": "Onemogući pregled",
+    "rjButton17": "Omogući pregled",
+    "rjButton18": "Pogledaj\nPromjene"
+    },
+    "AthermoBase": {
+    "checkBox4": "Automatsko ažuriranje",
+    "label131": "Da biste vidjeli kod, morate se prijaviti na bijelu listu.\nOdobrenje može potrajati neko vrijeme, vratite se kasnije :D",
+    "metroButton60": "Registracija",
+    "metroButton44": "Učitaj aplikaciju",
+    "metroButton59": "Biblioteke",
+    "metroButton50": "Kopiraj",
+    "metroButton43": "Dnevnik",
+    "metroButton42": "Izvorni kod",
+    "label124": "Funkcije razvojnog inženjera",
+    "metroButton36": "Preuzmi Xenia",
+    "metroButton34": "Radnje",
+    "metroButton27": "Izbriši",
+    "metroButton26": "Pošalji",
+    "label112": "(Ovo polje nije obavezno)",
+    "label119": "Pogreška prilikom slanja povratne informacije, provjerite internetsku vezu!",
+    "label108": "Povratne informacije poslane!",
+    "metroButton8": "Odaberi mjesto",
+    "label88": "Odaberite cijeli disk ili bočne putove.",
+    "metroButton22": "Popravi igru (opcionalno)",
+    "label81": "Aplikacija ispravno radi samo s Win 10 / 11!",
+    "linkLabel21": "Uvjeti i odredbe",
+    "linkLabel19": "Zahvale",
+    "metroButton21": "Donacije",
+    "label14": "Kliknite na putanju\nda biste kopirali lokaciju u datoteku.",
+    "metroButton16": "Deinstaliraj Xenia igru",
+    "button27": "Pozadinski prijelaz",
+    "button2": "Odustani",
+    "metroButton19": "Popuni\nobrazac za prijavu",
+    "metroButton15": "Odaberi Xenia lokaciju",
+    "linkLabel15": "Baza podržanih igara",
+    "label87": "Skenirajte svoju lokaciju.",
+    "checkBox3": "Očisti popis prilikom ponovnog skeniranja.",
+    "label84": "Skeniranje cijelog diska traje dulje od \r\nskeniranja mape Igre!",
+    "metroButton4": "Ponovno skeniraj",
+    "rjButton2": "Vaše igre",
+    "label36": "Informacije poslane poslužitelju.",
+    "label4": "Sljedeći podaci se prenose:\r\n\r\nMinimalno: Korisnički ID i Vrijeme pokretanja aplikacije\r\nPreporučeno: Svi podaci + Podaci o sustavu Windows i\r\nGrafička kartica",
+    "metroButton7": "Privatnost",
+    "linkLabel10": "Podržane grafičke kartice...",
+    "checkBox2": "Windows upravljački programi",
+    "checkBox1": "Grafički upravljački programi",
+    "label86": "Nešto je pošlo po zlu. :(",
+    "metroButton6": "Odustani",
+    "metroButton5": "Instaliraj",
+    "metroButton58": "Jezik: Poljski",
+    "metroButton10": "Odaberi igru Xenia",
+    "metroButton18": "Prikaži popis postignuća",
+    "metroButton13": "Uredi igre Xenia",
+    "metroButton11": "Odaberi datoteku igre",
+    "metroButton12": "Spremi",
+    "label91": "Xenia Emulator za igre Xbox 360",   
+    "button17": "Deinstaliraj igru",
+    "metroButton3": "Zahtjevi za igru",
+    "label7": "AthermoBase uključuje značajke pokretanja igre, kao i buduće optimizacije i pristup\nXbox dostignućima koja se mogu postaviti kao cilj u pravokutniku u gornjem desnom kutu zaslona\nČak iu igrama preko cijelog zaslona, a njegov položaj na zaslonu može se prilagoditi i spremiti.\nAthermoBase Game Launcher također se stvara za pokretanje igre čije se ime\nmože brainstormed na Discordu!\n\rIgra preživljavanja koja istražuje otvoreni svijet već je u pripremi!\n\rIgra je besplatna, povezana s ID-om igrača.\n\rUživaj!",
+    "metroButton2": "Instaliraj",
+    "metroButton1": "Odustani",
+    "metroButton92": "Informacije",
+    "rjButton10": "Igraj",
+    "rjButton1": "Upravljački programi",
+    "rjButton7": "Postavke",
+    "rjButton8": "Pomoć",
+    "rjButton9": "Natrag",
+    "label50": "Zahtjevi sustava aplikacije",
+    "label44": "Minimalni zahtjevi:",
+    "label38": "Sustav: Windows 7/10/11 (Neke značajke možda neće raditi na sustavu Windows 7)",
+    "label39": "Potrebne aplikacije: PowerShell, CMD",
+    "label40": "Pohrana: 50 MB (Za aplikacijske datoteke)",
+    "label41": "RAM: 2 GB (Rad aplikacije i sustava)",
+    "label42": "Procesor: 2-jezgreni, po mogućnosti: Intel Core 2 Duo 2x1.50 GHz",
+    "label43": "Pristup internetu: Minimalno 10 KB/s",
+    "label45": "Preporučeni zahtjevi:",
+    "label51": "Potrebne aplikacije: PowerShell verzija \"7\", CMD",
+    "label49": "Pohrana: 100 MB (Za aplikacijske datoteke)",
+    "label48": "RAM: 4 GB (Dobra izvedba aplikacije i sustava)",
+    "label47": "Procesor: 4-jezgreni, po mogućnosti: Intel Core i5-4690 4x3.90 GHz",
+    "label46": "Pristup internetu: 1 MB/s",
+    "label53": "Ovaj Windows sustav nije podržan!",
+    "button10": "Provjeri kompatibilnost sustava",
+    "button16": "Natrag",
+    "label33": "Pomoć",
+    "label32": "Glavne pogreške aplikacije (poznate)",
+    "label31": "Ako postoji pogreška koja se odnosi na preuzimanje, kliknite \"Nastavi\".",
+    "label24": "Klikom na \"Zatvori\" zatvorit će se aplikacija.",
+    "label10": "(Ova pogreška još nije riješena)",
+    "label30": "Pogreška s \"datoteka nije pronađena\" može se pojaviti prilikom klika, ponekad",
+    "label29": "na zaglavljenom gumbu \"Izvuci i instaliraj\", ništa se neće dogoditi ako",
+    "label23": "kliknete \"Nastavi\".",
+    "label28": "(Ova pogreška još nije riješena)",
+    "label111": "Pogreška s količinom MB za preuzimanje ažuriranja aplikacije.",
+    "label113": "Ponekad se javljaju poteškoće u pronalaženju informacija o MB",
+    "label129": "dostupnima na poslužitelju. Pokazuje se 0.00 MB za preuzimanje.",
+    "label130": "(Ova pogreška još nije riješena)",
+    "label25": "Pogreške aplikacije (nepoznate)",
+    "label26": "Ako pronađete novu pogrešku, opišite je ovdje:",
+    "label3": "Postavke aplikacije",
+    "metroButton23": "Odabir boje i načina rada",
+    "metroButton24": "Provjeri ažuriranje aplikacije",
+    "metroButton25": "Ukloni aplikacijske datoteke / Deinstaliraj aplikaciju",
+    "metroButton28": "Prikaži zahtjeve sustava",
+    "metroButton32": "Napredno",
+    "metroButton31": "Za razvojnike",
+    "metroButton37": "Testovi",
+    "metroButton41": "Automatski zapis promjena",
+    "label153": "Automatski zapis promjena omogućen",
+    "label152": "uzrokuje njegovo pokretanje prilikom pokretanja aplikacije",
+    "label151": "ako ga onemogućite, aplikacija će ga preskočiti",
+    "label154": "prilikom pokretanja.",
+    "label155": "Postavite: \"UKLJUČENO\" za omogućavanje.",
+    "label156": "Postavite: \"ISKLJUČENO\" za onemogućavanje.",
+    "label149": "Ove će postavke biti spremljene.",
+    "label76": "To su postavke za napredne",
+    "label77": "korisnike; ako ih želite omogućiti, morate",
+    "label78": "kliknuti gumb u nastavku.",
+    "label80": "Ove će postavke biti spremljene.",
+    "label21": "Upozorenje!!! Ove postavke su ",
+    "label17": "neopozive!",
+    "label22": "Nema daljnjeg upozorenja!",
+    "label18": "Ne mijenjajte ih bez sigurnosti",
+    "label19": "u vezi s onim što radite!",
+    "button13": "Poništi postavke",
+    "button5": "Ukloni aplikacijske datoteke",
+    "button4": "Deinstaliraj aplikaciju",
+    "label98": "Testovi",
+    "label99": "Najnovija dostupna verzija:",
+    "label5": "Preuzimanje dovršeno!",
+    "label37": "Sve datoteke iz mape aplikacije!",
+    "label8": "mjesto /datum",
+    "button11": "Preuzimanje u hitnim slučajevima",
+    "button7": "Preuzimanje",
+    "button12": "Provjera verzija",
+    "button15": "Tamni način rada",
+    "button14": "Svijetli način rada",
+    "label104": "Testovi",
+    "metroButton33": "Radnje",
+    "rjButton3": "Natrag",
+    "metroButton30": "Verzije igre",
+    "metroButton29": "Verzije igre",
+    "label73": "Ova značajka je vidljiva samo",
+    "label74": "razvojnim inženjerima.",
+    "label75": "(Opcija u postavkama \"Za razvojnike\")",
+    "label9": "Nema pristupa poslužitelju!",
+    "label117": "Dobrodošli",
+    "label109": "Funkcije aplikacije",
+    "button23": "Boja panela",
+    "button25": "Zadano",
+    "button28": "Boja pozadine",
+    "button26": "Spremi",
+    "metroButton69": "Ocijeni aplikaciju",
+    "listBox5_1": "Jer želim naučiti programiranje.",
+    "listBox5_2": "Jer želim koristiti kod za svoj projekt.",
+    "listBox5_3": "Jer sam znatiželjan.",
+    "button6_1": "Minimalno",
+    "button6_2": "Preporučeno",
+    "label67_true": "Vaš sustav nije kompatibilan!",
+    "label67_false": "Vaš sustav je kompatibilan.",
+    "label2_1": "Grafička kartica: ",
+    "label2_2": "Procesor: ",
+    "label2_3": "Windows: "
+    },
+    "Patches": {
+"label1": "Dostupni popravci:",
+"label2": "Dostupne igre",
+"label6": "Preuzmi popravke",
+"metroButton2": "Ažuriraj listu popravaka",
+"metroButton1": "Koristi odabrani popravak",
+"label7": "Aplikacija \"AthermoBase\" koristi resurse i otvorenu aplikaciju \"Xenia Emulator\", ali nije povezana s njom ni na koji način!"
+},
+"Achievements": {
+    "label1_1": "Nije povezano s korisničkim računom!",
+    "label1_2": "Povezano s vašim korisničkim računom!",
+    "label4": "Informacije o korisniku: ",
+    "label5": "Učitavanje",
+    "lbl1": "Gamertag: ",
+    "lbl2": "Gamerscore: ",
+    "lbl3": "XUID: ",
+    "metroButton1": "Ponovno učitaj informacije",
+    "metroButton2": "Postavi kao cilj",
+    "xauthError_1": "Postoji problem s pruženim xauth tokenom.",
+    "xauthError_2": "Nije moguće pronaći xauth.",
+    "xauthError_3": "Ova igra nema postignuća.",
+    "AchievementResponse": "Ukupni napredak: Čekanje odgovora",
+    "AchievementValid": "Ukupni napredak: ",
+    "frequencyError": "Nemojte odmah pritisnuti gumb čim se pokrene aplikacija Xbox.\nPričekajte dok se učita."
+    },
+    "Help": {
+"checkBox1": "Priloži datoteku dnevnika",
+"label3": "Kratko opisati pronađenu grešku.",
+"Form": "Obrazac",
+"metroButton87": "Poslati",
+"label1_true": "Poslano!",
+"label1_false": "Slanje nije uspjelo!"
+}
+}

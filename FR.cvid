@@ -1,43 +1,240 @@
-Temps de démarrage :
-Super ! :D
-C'est bien !
-Faible !
-Cela ne peut pas être !
-Mode d'animation : statique, image
-Mode d'animation : toutes les 30 secondes
-Mode d'animation : toutes les
- secondes
-Mode d'animation : toutes les
- seconde
-Mode d'animation : toutes les
- secondes
-Langue
-Actions
-Limite : 0/300
-Obtenir des collections de fonds d'écran
-Disparition de l'application
-Durée du diaporama
-Pas d'accès au serveur !
-Conditions générales
-Écrire à\nl'administrateur
-Contenu de votre message :
-Envoyer
-Centre d'application
-Créer des fichiers d'application
-Paramètres
-Polonais
-Anglais
-Plus...
-Désactiver l'aperçu
-Contenu de mes\nmédias sociaux
-Personnaliser\nl'application
-Retour
-Mode sombre
-Mode clair
-Enregistrer
-Dernière vidéo sur la chaîne : Marcin Dg
-Désactiver l'aperçu
-Activer l'aperçu
-Afficher\nles modifications apportées
-Langue du système: 
-(Cette langue n’est pas disponible)
+{
+  "AthermoBase Hub": {
+    "button1": "Retour",
+    "button2": "Mes Réseaux\nSociaux",
+    "button3": "Personnaliser l'Apparence\nde l'Application",
+    "button4": "Contacter\nl'Administrateur",
+    "button5": "Envoyer",
+    "button8": "Enregistrer",
+    "button9": "Mode Sombre",
+    "button10": "Mode Lumière",
+    "label1": "Paramètres",
+    "label3_1": "Langue du Système",
+    "label3_2": "(Cette langue n'est pas disponible)",
+    "label9": "Temps de Démarrage",
+    "label10": "Contenu de Votre Message:",
+    "label11": "Pas d'accès au serveur!",
+    "label15_1": "Super! :D",
+    "label15_2": "Tout va bien!",
+    "label15_3": "Faible!",
+    "label15_4": "Ceci est impossible!",
+    "label20": "Durée de Glissement",
+    "label21": "Fondu de l'Application",
+    "label23_1": "Mode d'Animation: statique, image",
+    "label23_2": "Mode d'Animation: animation toutes les 30 secondes",
+    "label23_3": "Mode d'Animation: animation toutes les ",
+    "label23_4": " secondes",
+    "label23_5": "Mode d'Animation: animation toutes les ",
+    "label23_6": " seconde",
+    "label23_7": "Mode d'Animation: animation toutes les ",
+    "label23_8": " secondes",
+    "label25": "Limite : 0/300",
+    "linkLabel2": "Termes et Conditions",
+    "metroButton3": "Télécharger les Collections de Fonds d'Écran",
+    "metroButton4": "Actions",
+    "metroButton5": "Langue",
+    "rjButton1": "App HUB",
+    "rjButton2": "Dernier Film sur la chaîne : Marcin Dg",
+    "rjButton3": "Créer des Fichiers d'Application",
+    "rjButton7": "Polonais",
+    "rjButton8": "Anglais",
+    "rjButton10": "Plus...",
+    "rjButton14": "Désactiver l'aperçu",
+    "rjButton16": "Désactiver l'aperçu",
+    "rjButton17": "Activer l'aperçu",
+    "rjButton18": "Voir\nJournal des Modifications"
+  },
+  "AthermoBase": {
+    "checkBox4": "Mise à jour automatique",
+    "label131": "Pour voir le code, vous devez vous inscrire sur la liste blanche.\nL'approbation peut prendre un certain temps, revenez plus tard :D",
+    "metroButton60": "S'inscrire",
+    "metroButton44": "Chargement de l'application",
+    "metroButton59": "Bibliothèques",
+    "metroButton50": "Copier",
+    "metroButton43": "Journal",
+    "metroButton42": "Code source",
+    "label124": "Fonctions du développeur",
+    "metroButton36": "Télécharger Xenia",
+    "metroButton34": "Actions",
+    "metroButton27": "Supprimer",
+    "metroButton26": "Envoyer",
+    "label112": "(Ce champ n'est pas obligatoire)",
+    "label119": "Erreur lors de l'envoi des commentaires, vérifiez votre connexion Internet !",
+    "label108": "Commentaires envoyés !",
+    "metroButton8": "Sélectionner l'emplacement",
+    "label88": "Sélectionnez le disque entier ou des chemins spécifiques.",
+    "metroButton22": "Correction du jeu (facultatif)",
+    "label81": "L'application fonctionne correctement uniquement avec Win 10 / 11 !",
+    "linkLabel21": "Termes et conditions",
+    "linkLabel19": "Remerciements",
+    "metroButton21": "Dons",
+    "label14": "Cliquez sur un chemin\npour copier l'emplacement dans un fichier.",
+    "metroButton16": "Désinstaller le jeu Xenia",
+    "button27": "Dégradé d'arrière-plan",
+    "button2": "Annuler",
+    "metroButton19": "Remplir le formulaire\nde demande",
+    "metroButton15": "Sélectionner l'emplacement Xenia",
+    "linkLabel15": "Base de données des jeux pris en charge",
+    "label87": "Analysez votre emplacement.",
+    "checkBox3": "Effacer la liste lors de la nouvelle analyse.",
+    "label84": "L'analyse du disque entier prend plus de temps que\nl'analyse du dossier des jeux !",
+    "metroButton4": "Nouvelle analyse",
+    "rjButton2": "Vos jeux",
+    "label36": "Informations envoyées au serveur.",
+    "label4": "Les données suivantes sont transmises :\r\n\r\nMinimal : Identifiant de l'utilisateur et heure de lancement de l'application\r\nRecommandé : Toutes les données + Données du système Windows et de la carte graphique",
+    "metroButton7": "Confidentialité",
+    "linkLabel10": "Cartes graphiques prises en charge...",
+    "checkBox2": "Pilotes Windows",
+    "checkBox1": "Pilotes graphiques",
+    "label86": "Quelque chose s'est mal passé. :(",
+    "metroButton6": "Annuler",
+    "metroButton5": "Installer",
+    "metroButton58": "Langue : Polonais",
+    "metroButton10": "Sélectionner le jeu Xenia",
+    "metroButton18": "Afficher la liste des réalisations",
+    "metroButton13": "Modifier les jeux Xenia",
+    "metroButton11": "Sélectionner le fichier du jeu",
+    "metroButton12": "Enregistrer",
+    "label91": "Émulateur Xenia pour les jeux Xbox 360",
+    "button17": "Désinstaller le jeu",
+    "metroButton3": "Configuration requise du jeu",
+    "label7": "AthermoBase inclut des fonctionnalités de lancement de jeux, ainsi que des optimisations futures et un accès\naux succès Xbox qui peuvent être définis comme objectif dans un rectangle en haut à droite de l'écran,\nmême dans les jeux en plein écran, et sa position sur l'écran peut être personnalisée et enregistrée.\nLe lanceur de jeux AthermoBase est également en cours de création pour lancer un jeu dont\nle nom peut être suggéré sur Discord !\n\rUn jeu de survie explorant un monde ouvert est déjà en cours de développement !\n\rLe jeu est gratuit, associé à l'ID du joueur.\n\rAmusez-vous bien !",
+    "metroButton2": "Installer",
+    "metroButton1": "Annuler",
+    "metroButton92": "Informations",
+    "rjButton10": "Jouer",
+    "rjButton1": "Pilotes",
+    "rjButton7": "Paramètres",
+    "rjButton8": "Aide",
+    "rjButton9": "Retour",
+    "label50": "Configuration Système Requise pour l'Application",
+    "label44": "Configuration Minimale :",
+    "label38": "Système : Windows 7/10/11 (Certaines fonctionnalités peuvent ne pas fonctionner sur Windows 7)",
+    "label39": "Applications Requises : PowerShell, CMD",
+    "label40": "Espace de Stockage : 50 Mo (Pour les fichiers de l'application)",
+    "label41": "RAM : 2 Go (Fonctionnement de l'application et du système)",
+    "label42": "Processeur : Double cœur, de préférence : Intel Core 2 Duo 2x1,50 GHz",
+    "label43": "Accès Internet : Minimum 10 Ko/s",
+    "label45": "Configuration Recommandée :",
+    "label51": "Applications Requises : PowerShell version \"7\", CMD",
+    "label49": "Espace de Stockage : 100 Mo (Pour les fichiers de l'application)",
+    "label48": "RAM : 4 Go (Bonne performance de l'application et du système)",
+    "label47": "Processeur : Quadruple cœur, de préférence : Intel Core i5-4690 4x3,90 GHz",
+    "label46": "Accès Internet : 1 Mo/s",
+    "label53": "Ce système Windows n'est pas pris en charge !",
+    "button10": "Vérifier la Compatibilité du Système",
+    "button16": "Retour",
+    "label33": "Aide",
+    "label32": "Erreurs Principales de l'Application (Connues)",
+    "label31": "Si une erreur liée au téléchargement survient, cliquez sur \"Continuer\".",
+    "label24": "Cliquer sur \"Arrêter\" fermera l'application.",
+    "label10": "(Cette erreur n'est pas encore résolue)",
+    "label30": "Une erreur \"fichier non trouvé\" peut apparaître lorsque vous cliquez sur \"Continuer\".",
+    "label29": "Le bouton \"Extraire et installer\" buggé, rien ne se passera si vous cliquez sur \"Continuer\".",
+    "label23": "(Cette erreur n'est pas encore résolue)",
+    "label28": "(Cette erreur n’est pas encore résolue)",
+    "label111": "Erreur avec la quantité de Mo pour télécharger la mise à jour de l'application.",
+    "label113": "Parfois, il y a des problèmes pour trouver des informations sur les Mo",
+    "label129": "disponibles sur le serveur. Il montre 0,00 Mo à télécharger.",
+    "label130": "(Cette erreur n'est pas encore résolue)",
+    "label25": "Erreurs de l'Application (Inconnues)",
+    "label26": "Si vous trouvez une nouvelle erreur, écrivez-la ici :",
+    "label3": "Paramètres de l'Application",
+    "metroButton23": "Sélection de la Couleur et du Mode",
+    "metroButton24": "Vérifier les Mises à Jour de l'Application",
+    "metroButton25": "Supprimer les Fichiers de l'Application / Désinstaller l'Application",
+    "metroButton28": "Afficher les Exigences du Système",
+    "metroButton32": "Avancé",
+    "metroButton31": "Pour les Développeurs",
+    "metroButton37": "Tests",
+    "metroButton41": "Journal des Modifications Automatique",
+    "label153": "Journal des Modifications Automatique activé",
+    "label152": "le fait de l'exécuter au démarrage de l'application",
+    "label151": "si vous le désactivez, l'application le sautera",
+    "label154": "au démarrage.",
+    "label155": "Réglage : \"Activé\" pour activer.",
+    "label156": "Réglage : \"Désactivé\" pour désactiver.",
+    "label149": "Ces paramètres seront enregistrés.",
+    "label76": "Ce sont des paramètres pour des",
+    "label77": "utilisateurs avancés ; si vous souhaitez les activer, vous devez",
+    "label78": "cliquer sur le bouton ci-dessous.",
+    "label80": "Ces paramètres seront enregistrés.",
+    "label21": "Attention !!! Ces paramètres sont",
+    "label17": "irréversibles !",
+    "label22": "Il n'y a pas d'avertissement supplémentaire !",
+    "label18": "Ne les modifiez pas sans certitude",
+    "label19": "de ce que vous faites !",
+    "button13": "Réinitialiser les Paramètres",
+    "button5": "Supprimer les Fichiers de l'Application",
+    "button4": "Désinstaller l'Application",
+    "label98": "Version de l'Application Installée :",
+    "label99": "Dernière Version Disponible :",
+    "label5": "téléchargement terminé !",
+    "label37": "tous les fichiers du dossier de l'application !",
+    "label8": "emplacement /data",
+    "button11": "Téléchargement d'Urgence",
+    "button7": "Télécharger",
+    "button12": "Vérifier les Versions",
+    "button15": "Mode Sombre",
+    "button14": "Mode Lumière",
+    "label104": "Tests",
+    "metroButton33": "Actions",
+    "rjButton3": "Retour",
+    "metroButton30": "Versions du Jeu",
+    "metroButton29": "Versions du Jeu",
+    "label73": "Cette fonctionnalité est visible uniquement",
+    "label74": "pour les développeurs.",
+    "label75": "(Option dans les Paramètres \"Pour les Développeurs\")",
+    "label9": "Pas d'accès au serveur !",
+    "label117": "Bienvenue",
+    "label109": "Fonctions de l'Application",
+    "button23": "Couleur du Panneau",
+    "button25": "Par Défaut",
+    "button28": "Couleur de l'Arrière-Plan",
+    "button26": "Enregistrer",
+    "metroButton69": "Noter l'Application",
+    "listBox5_1": "Parce que je veux apprendre la programmation.",
+    "listBox5_2": "Parce que je veux utiliser le code pour mon projet.",
+    "listBox5_3": "Parce que je suis curieux.",
+    "button6_1": "Minimale",
+    "button6_2": "Recommandée",
+    "label67_true": "Votre système n'est pas compatible !",
+    "label67_false": "Votre système est compatible.",
+    "label2_1": "Carte Graphique : ",
+    "label2_2": "Processeur : ",
+    "label2_3": "Windows : "
+  },
+  "Patches": {
+    "label1": "Correctifs disponibles :",
+    "label2": "Jeux disponibles",
+    "label6": "Télécharger les correctifs",
+    "metroButton2": "Mettre à jour la liste des correctifs",
+    "metroButton1": "Utiliser le correctif sélectionné",
+    "label7": "L'application \"AthermoBase\" utilise des ressources et l'application ouverte \"Xenia Emulator\",\nmais n'est en aucun cas liée à elle !"
+  },
+  "Achievements": {
+    "label1_1": "Non lié au compte utilisateur !",
+    "label1_2": "Lié à votre compte utilisateur !",
+    "label4": "Infos Utilisateur : ",
+    "label5": "Chargement en cours",
+    "lbl1": "Gamertag : ",
+    "lbl2": "Score de joueur : ",
+    "lbl3": "XUID : ",
+    "metroButton1": "Recharger les Infos",
+    "metroButton2": "Définir comme objectif",
+    "xauthError_1": "Il y a un problème avec le jeton xauth fourni.",
+    "xauthError_2": "Impossible de trouver xauth.",
+    "xauthError_3": "ce jeu n'a pas de succès",
+    "AchievementResponse": "Progrès Global : En attente d'une réponse",
+    "AchievementValid": "Progrès Global : ",
+    "frequencyError": "N'appuyez pas sur le bouton dès que l'application Xbox démarre.\nAttendez qu'elle soit chargée."
+  },
+  "Help": {
+"checkBox1": "Joindre un fichier journal",
+"label3": "Décrire brièvement l'erreur trouvée.",
+"Form": "Formulaire",
+"metroButton87": "Envoyer",
+"label1_true": "Envoyé !",
+"label1_false": "Échec de l'envoi !"
+}
+}

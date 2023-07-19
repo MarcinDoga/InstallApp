@@ -1,43 +1,240 @@
-Startup Time:
-Great! :D
-It's good!
-Weak!
-This cannot be!
-Animation Mode: static, image 
-Animation Mode: animation every 30 seconds
-Animation Mode: animation every 
- seconds
-Animation Mode: animation every 
- second
-Animation Mode: animation every 
- seconds
-Language
-Actions
-Limit: 0/300
-Get Wallpaper Collections
-Application Disappearance
-Slide duration
-No access to the server!
-Terms and Conditions
-Write to\nthe Administrator
-Content of your message:
-Send
-Application Hub
-Create App Files
-Settings
-Polish
-English
-More...
-Disable Preview
-My Social Media\nContent
-Customize App
-Back
-Dark Mode
-Light Mode
-Save
-Latest Video on Channel: Marcin Dg
-Disable Preview
-Enable Preview
-View\nChangelog
-System language: 
-(This language is not available)
+{
+"AthermoBase Hub": {
+"button1": "Back",
+"button2": "My Social\nMedia",
+"button3": "Customize App\nAppearance",
+"button4": "Contact\nAdministrator",
+"button5": "Send",
+"button8": "Save",
+"button9": "Dark Mode",
+"button10": "Light Mode",
+"label1": "Settings",
+"label3_1": "System Language",
+"label3_2": "(This language is not available)",
+"label9": "Startup Time",
+"label10": "Your message content:",
+"label11": "No server access!",
+"label15_1": "Great! :D",
+"label15_2": "All good!",
+"label15_3": "Weak!",
+"label15_4": "This can't be!",
+"label20": "Slide duration",
+"label21": "App Fade-out",
+"label23_1": "Animation mode: static, picture",
+"label23_2": "Animation mode: animation every 30 seconds",
+"label23_3": "Animation mode: animation every ",
+"label23_4": " seconds",
+"label23_5": "Animation mode: animation every ",
+"label23_6": " second",
+"label23_7": "Animation mode: animation every ",
+"label23_8": " seconds",
+"label25": "Limit: 0/300",
+"linkLabel2": "Terms and Conditions",
+"metroButton3": "Download Wallpaper Collections",
+"metroButton4": "Actions",
+"metroButton5": "Language",
+"rjButton1": "App HUB",
+"rjButton2": "Latest Movie on channel: Marcin Dg",
+"rjButton3": "Create App Files",
+"rjButton7": "Polish",
+"rjButton8": "English",
+"rjButton10": "More...",
+"rjButton14": "Disable preview",
+"rjButton16": "Disable Preview",
+"rjButton17": "Enable Preview",
+"rjButton18": "See\nChangelog"
+},
+"AthermoBase": {
+"checkBox4": "Automatic Update",
+"label131": "To view the code, you must sign up for the WhiteList.\nApproval may take some time, come back later :D",
+"metroButton60": "Sign Up",
+"metroButton44": "App Load",
+"metroButton59": "Libraries",
+"metroButton50": "Copy",
+"metroButton43": "Log",
+"metroButton42": "Source Code",
+"label124": "Developer Functions",
+"metroButton36": "Download Xenia",
+"metroButton34": "Actions",
+"metroButton27": "Delete",
+"metroButton26": "Send",
+"label112": "(This field is not required)",
+"label119": "Error sending feedback, check your internet connection!",
+"label108": "Feedback sent!",
+"metroButton8": "Select Location",
+"label88": "Select entire disk or side paths.",
+"metroButton22": "Game Fix (Optional)",
+"label81": "The app only works correctly with Win 10 / 11!",
+"linkLabel21": "Terms and Conditions",
+"linkLabel19": "Acknowledgements",
+"metroButton21": "Donations",
+"label14": "Click on a path\nto copy the location to a file.",
+"metroButton16": "Uninstall Xenia Game",
+"button27": "Background Gradient",
+"button2": "Cancel",
+"metroButton19": "Fill out\napplication form",
+"metroButton15": "Select Xenia Location",
+"linkLabel15": "Supported Game Database",
+"label87": "Scan your location.",
+"checkBox3": "Clear list upon rescan.",
+"label84": "Scanning the entire disk takes longer than \r\nscanning the Games folder!",
+"metroButton4": "Rescan",
+"rjButton2": "Your Games",
+"label36": "Information sent to the server.",
+"label4": "The following data is transmitted:\r\n\r\nMinimal: User ID and App Launch Time\r\nRecommended: All data + Windows System and\r\nGraphics Card Data",
+"metroButton7": "Privacy",
+"linkLabel10": "Supported Graphics Cards...",
+"checkBox2": "Windows Drivers",
+"checkBox1": "Graphics Drivers",
+"label86": "Something went wrong. :(",
+"metroButton6": "Cancel",
+"metroButton5": "Install",
+"metroButton58": "Language: Polish",
+"metroButton10": "Select Xenia game",
+"metroButton18": "Show achievements list",
+"metroButton13": "Edit Xenia games",
+"metroButton11": "Select game file",
+"metroButton12": "Save",
+"label91": "Xenia Emulator for Xbox 360 Games",
+"button17": "Uninstall Game",
+"metroButton3": "Game Requirements",
+"label7": "AthermoBase includes game launching features, as well as future optimizations and access to\nXbox achievements that can be set as a goal in a rectangle in the upper right corner of the screen\neven in full-screen games, and its position on the screen can be customized and saved.\nAthermoBase Game Launcher is also being created for launching a game whose\nname can be brainstormed on Discord!\n\rA survival game exploring an open world is already in the works!\n\rThe game is free, associated with the player's ID.\n\rHave fun!",
+"metroButton2": "Install",
+"metroButton1": "Cancel",
+"metroButton92": "Information",
+"rjButton10": "Play",
+"rjButton1": "Drivers",
+"rjButton7": "Settings",
+"rjButton8": "Help",
+"rjButton9": "Back",
+"label50": "App System Requirements",
+"label44": "Minimum Requirements:",
+"label38": "System: Windows 7/10/11 (Some features may not work on Windows 7)",
+"label39": "Required Applications: PowerShell, CMD",
+"label40": "Storage: 50 MB (For app files)",
+"label41": "RAM: 2 GB (App and system operation)",
+"label42": "Processor: 2-core, preferably: Intel Core 2 Duo 2x1.50 GHz",
+"label43": "Internet Access: Minimum 10 KB/s",
+"label45": "Recommended Requirements:",
+"label51": "Required Applications: PowerShell version \"7\", CMD",
+"label49": "Storage: 100 MB (For app files)",
+"label48": "RAM: 4 GB (Good app and system performance)",
+"label47": "Processor: 4-core, preferably: Intel Core i5-4690 4x3.90GHz",
+"label46": "Internet Access: 1 MB/s",
+"label53": "This Windows system is not supported!",
+"button10": "Check System Compatibility",
+"button16": "Back",
+"label33": "Help",
+"label32": "App Main Errors (Known)",
+"label31": "If there is an error related to downloading, click \"Continue\".",
+"label24": "Clicking \"Shutdown\" will close the app.",
+"label10": "(This error is not yet resolved)",
+"label30": "Error with \"file not found\" may appear when clicking, sometimes",
+"label29": "the bugged \"Extract and install\" button, nothing will happen if",
+"label23": "you click \"Continue\".",
+"label28": "(This error is not yet resolved)",
+"label111": "Error with the amount of MB to download the app update.",
+"label113": "Sometimes there are issues with finding information about the MB",
+"label129": "available on the server. It shows 0.00 MB to download.",
+"label130": "(This error is not yet resolved)",
+"label25": "App Errors (Unknown)",
+"label26": "If you find a new error, write about it here:",
+"label3": "App Settings",
+"metroButton23": "Color and Mode Selection",
+"metroButton24": "Check for App Update",
+"metroButton25": "Remove App Files / Uninstall App",
+"metroButton28": "Show System Requirements",
+"metroButton32": "Advanced",
+"metroButton31": "For Developers",
+"metroButton37": "Tests",
+"metroButton41": "Automatic Changelog",
+"label153": "Automatic Changelog enabled",
+"label152": "causes it to run on app startup",
+"label151": "if you disable it, the app will skip it",
+"label154": "on startup.",
+"label155": "Set: \"ON\" to enable.",
+"label156": "Set: \"OFF\" to disable.",
+"label149": "These settings will be saved.",
+"label76": "These are settings for advanced",
+"label77": "users; if you want to enable them, you need to",
+"label78": "click the button below.",
+"label80": "These settings will be saved.",
+"label21": "Caution!!! These settings are ",
+"label17": "irreversible!",
+"label22": "There is no further warning!",
+"label18": "Do not change them without certainty",
+"label19": "of what you're doing!",
+"button13": "Reset Settings",
+"button5": "Remove App Files",
+"button4": "Uninstall App",
+"label98": "Installed App Version:",
+"label99": "Latest Available Version:",
+"label5": "download completed!",
+"label37": "all files from the app folder!",
+"label8": "location /data",
+"button11": "Emergency Download",
+"button7": "Download",
+"button12": "Check Versions",
+"button15": "Dark Mode",
+"button14": "Light Mode",
+"label104": "Tests",
+"metroButton33": "Actions",
+"rjButton3": "Back",
+"metroButton30": "Game Versions",
+"metroButton29": "Game Versions",
+"label73": "This feature is visible only",
+"label74": "to developers.",
+"label75": "(Option in Settings \"For Developers\")",
+"label9": "No server access!",
+"label117": "Welcome",
+"label109": "App Functions",
+"button23": "Panel Color",
+"button25": "Default",
+"button28": "Background Color",
+"button26": "Save",
+"metroButton69": "Rate the App",
+"listBox5_1": "Because I want to learn programming.",
+"listBox5_2": "Because I want to use the code for my project.",
+"listBox5_3": "Because I'm curious.",
+"button6_1": "Minimal",
+"button6_2": "Recommended",
+"label67_true": "Your system is not compatible!",
+"label67_false": "Your system is compatible.",
+"label2_1": "Graphics Card: ",
+"label2_2": "Processor: ",
+"label2_3": "Windows: "
+},
+"Patches": {
+"label1": "Available patches/fixes:",
+"label2": "Available games",
+"label6": "Download patches",
+"metroButton2": "Update the patch list",
+"metroButton1": "Use selected patch",
+"label7": "The \"AthermoBase\" application uses the resources and the open application \"Xenia Emulator\", but is not related\nto it in any way!"
+},
+"Achievements": {
+"label1_1": "Not linked to user account!",
+"label1_2": "Linked to your user account!",
+"label4": "User Info: ",
+"label5": "Loading",
+"lbl1": "Gamertag: ",
+"lbl2": "Gamerscore: ",
+"lbl3": "XUID: ",
+"metroButton1": "Reload Info",
+"metroButton2": "Set as a goal",
+"xauthError_1": "There is an issue with the xauth token provided.",
+"xauthError_2": "Couldnt find xauth.",
+"xauthError_3": "this game has no achievements",
+"AchievementResponse": "Overall Progress: Waiting for a response",
+"AchievementValid": "Overall Progress: ",
+"frequencyError": "Dont press the button as soon as the xbox app starts up.\nWait until it has loaded"
+},
+"Help": {
+"checkBox1": "Attach a log file",
+"label3": "Briefly describe the error found.",
+"Form": "Form",
+"metroButton87": "Send",
+"label1_true": "Send!",
+"label1_false": "Failed to send!"
+}
+}

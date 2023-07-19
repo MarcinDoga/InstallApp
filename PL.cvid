@@ -1,43 +1,240 @@
-Czas Uruchomienia: 
-Świetnie! :D
-Jest dobrze!
-Słabo!
-Tak nie może być!
-Tryb animacji: statyczny, zdjęcie 
-Tryb animacji: animacja co 30  sekund
-Tryb animacji: animacja co 
- sekund
-Tryb animacji: animacja co 
- sekundę
-Tryb animacji: animacja co 
- sekundy
-Język
-Akcje
-Limit: 0/300
-Pobierz Kolekcje Tapet
-Zaniknięcie Aplikacji
-Długość slajdu tła
-Nie ma dostępu do serwera!
-Regulamin
-Napisz do\nAdministratora
-Treść twojej wiadomości:
-Wyślij
-HUB Aplikacji
-Stwórz pliki aplikacji
-Ustawienia
-Język Polski
-Język Angielski
-Więcej...
-Wyłącz podgląd
-Moje media\nspołecznościowe
-Dostosuj Wygląd\nAplikacji
-Cofnij
-Ciemny Tryb
-Jasny Tryb
-Zapisz
-Najnowszy Film Na kanale: Marcin Dg
-Wyłącz Podgląd
-Włącz Podgląd
-Zobacz\nChangelog
-Język systemowy: 
-(Ten język nie jest dostępny)
+{
+  "AthermoBase Hub": {
+    "button1": "Cofnij",
+    "button2": "Moje media\nspołecznościowe",
+    "button3": "Dostosuj Wygląd\nAplikacji",
+    "button4": "Napisz do\nAdministratora",
+    "button5": "Wyślij",
+    "button8": "Zapisz",
+    "button9": "Ciemny Tryb",
+    "button10": "Jasny Tryb",
+    "label1": "Ustawienia",
+    "label3_1": "Język systemowy",
+    "label3_2": "(Ten język nie jest dostępny)",
+    "label9": "Czas Uruchomienia",
+    "label10": "Treść twojej wiadomości:",
+    "label11": "Nie ma dostępu do serwera!",
+    "label15_1": "Świetnie! :D",
+    "label15_2": "Jest dobrze!",
+    "label15_3": "Słabo!",
+    "label15_4": "Tak nie może być!",
+    "label20": "Długość slajdu tła",
+    "label21": "Zaniknięcie Aplikacji",
+    "label23_1": "Tryb animacji: statyczny, zdjęcie ",
+    "label23_2": "Tryb animacji: animacja co 30 sekund",
+    "label23_3": "Tryb animacji: animacja co ",
+    "label23_4": " sekund",
+    "label23_5": "Tryb animacji: animacja co ",
+    "label23_6": " sekundę",
+    "label23_7": "Tryb animacji: animacja co ",
+    "label23_8": " sekundy",
+    "label25": "Limit: 0/300",
+    "linkLabel2": "Regulamin",
+    "metroButton3": "Pobierz Kolekcje Tapet",
+    "metroButton4": "Akcje",
+    "metroButton5": "Język",
+    "rjButton1": "HUB Aplikacji",
+    "rjButton2": "Najnowszy Film Na kanale: Marcin Dg",
+    "rjButton3": "Stwórz pliki aplikacji",
+    "rjButton7": "Język Polski",
+    "rjButton8": "Język Angielski",
+    "rjButton10": "Więcej...",
+    "rjButton14": "Wyłącz podgląd",
+    "rjButton16": "Wyłącz Podgląd",
+    "rjButton17": "Włącz Podgląd",
+    "rjButton18": "Zobacz\nChangelog"
+  },
+  "AthermoBase": {
+    "checkBox4": "Automatyczna Aktualizacja",
+    "label131": "Aby obejrzeć kod musisz wpisać się na WhiteListę.\nOczekiwanie na zatwierdzenie może trochę potrwać, wejdź następnym razem :D",
+    "metroButton60": "Zapisz się",
+    "metroButton44": "App Load",
+    "metroButton59": "Biblioteki",
+    "metroButton50": "Skopiuj",
+    "metroButton43": "Log",
+    "metroButton42": "Kod Źródłowy",
+    "label124": "Funkcje dla Programistów",
+    "metroButton36": "Pobierz Xenia",
+    "metroButton34": "Akcje",
+    "metroButton27": "Usuń",
+    "metroButton26": "Wyślij",
+    "label112": "(To pole nie jest wymagane)",
+    "label119": "Błąd przy wysyłaniu opinii, sprawdź połączenie internetowe!",
+    "label108": "Opinia została wysłana!",
+    "metroButton8": "Wybierz Lokalizację",
+    "label88": "Wybierz cały dysk, bądź ścieżki poboczne.",
+    "metroButton22": "Poprawka gry (Opcjonalnie)",
+    "label81": "Aplikacja działa prawidłowo tylko z Win 10 / 11!",
+    "linkLabel21": "Regulamin",
+    "linkLabel19": "Podziękowania",
+    "metroButton21": "Donacje",
+    "label14": "Kliknij na dany path\nby skopiować lokalizacje do pliku.",
+    "metroButton16": "Usuń grę Xenia",
+    "button27": "Gradient tła",
+    "button2": "Anuluj",
+    "metroButton19": "Wypełnij formularz\nzgłoszeniowy",
+    "metroButton15": "Wybierz lokalizacje Xenia",
+    "linkLabel15": "Wspierana Baza Gier",
+    "label87": "Skanuj swoją lokalizację.",
+    "checkBox3": "Wyczyść listę przy ponownym skanowaniu.",
+    "label84": "Skanowanie całego dysku trwa dłużej niż \r\nskanowanie folderu Games!",
+    "metroButton4": "Skanuj Ponownie",
+    "rjButton2": "Twoje Gry",
+    "label36": "Informacje przesyłane na serwer.",
+    "label4": "Te dane są przesyłane:\r\n\r\nMinimalne: Tylko ID urzytkownika i czas uruchomienia aplikacji\r\nZalecane: Wszystkie dane + Dane o systemie Windows i o\r\nKarcie graficznej",
+    "metroButton7": "Prywatność",
+    "linkLabel10": "Wspierane Karty Graficzne...",
+    "checkBox2": "Sterowniki Windows",
+    "checkBox1": "Sterowniki Graficzne",
+    "label86": "Coś poszło nie tak. :(",
+    "metroButton6": "Anuluj",
+    "metroButton5": "Instaluj",
+    "metroButton58": "Język: Polski",
+    "metroButton10": "Wybierz grę Xenia",
+    "metroButton18": "Pokaż listę osiągnięć",
+    "metroButton13": "Edytuj gry Xenia",
+    "metroButton11": "Wybierz plik gry",
+    "metroButton12": "Zapisz",
+    "label91": "Xenia Emulator dla gier Xbox 360",
+    "button17": "Odinstaluj Grę",
+    "metroButton3": "Wymagania Gry",
+    "label7": "AthermoBase zawiera funkcje uruchamiania gier, oraz w przyszłości ich optymalizacje oraz dostęp do\nosiągnięć Xbox które będzie można ustawić jako cel w prostokącie w prawym górnym rogu ekranu\nnawet w pełnoekranowej grze, będzie można dostosować jego położenie na ekranie które się zapisze.\nAthermoBase Game Launcher powstaje też dla uruchamiania gry której nazwę można wymyślić na discordzie!\n\rGra survivalowa polegająca na zwiedzaniu otwartego świata już powstaje!\n\rGra jest darmowa, przypisywana do ID gracza.\n\rMiłej zabawy!",
+    "metroButton2": "Zainstaluj",
+    "metroButton1": "Anuluj",
+    "metroButton92": "Informacje",
+    "rjButton10": "Graj",
+    "rjButton1": "Sterowniki",
+    "rjButton7": "Ustawienia",
+    "rjButton8": "Pomoc",
+    "rjButton9": "Cofnij",
+    "label50": "Wymagania Systemowe Aplikacji",
+    "label44": "Wymagania Minimalne:",
+    "label38": "System: Windows 7/10/11 (Na windows 7 niektóre funkcje mogą nie działać)",
+    "label39": "Potrzebne Aplikacje: PowerShell, CMD",
+    "label40": "Pamięć magazynowa: 50 MB (Na pliki aplikacji)",
+    "label41": "Pamięć RAM: 2 GB (Działanie aplikacji i systemu)",
+    "label42": "Procesor: 2 rdzeniowy, najlepiej: Procesor Intel Core 2 Duo 2x1.50 GHz",
+    "label43": "Dostęp do internetu: Minimum 10 KB/s",
+    "label45": "Wymagania Zalecane:",
+    "label51": "Potrzebne Aplikacje: PowerShell w wersji \"7\", CMD",
+    "label49": "Pamięć magazynowa: 100 MB (Na pliki aplikacji)",
+    "label48": "Pamięć RAM: 4 GB (Dobre działanie aplikacji i systemu)",
+    "label47": "Procesor: 4 rdzeniowy, najlepiej: intel core i5-4690 4x3.90GHz",
+    "label46": "Dostęp do internetu:  1 MB/s",
+    "label53": "Ten system windows nie jest wspierany!",
+    "button10": "Sprawdź zgodność systemu",
+    "button16": "Cofnij",
+    "label33": "Pomoc",
+    "label32": "Główne błędy aplikacji (Znane)",
+    "label31": "Jeśli pojawia się błąd związany z pobieraniem kliknij \"Kontynuuj\".",
+    "label24": "Kliknięcie \"Wyłącz\" wyłączy aplikacje.",
+    "label10": "(Ten błąd jest jeszcze nie rozwiązany)",
+    "label30": "Błąd z \"niedostępnością pliku\" wyświetli się gdy klikniemy, czasami",
+    "label29": "zbugowany guzik \"Rozpakuj i zainstaluj\",nic się nie stanie jeśli",
+    "label23": "klikniemy \"Kontynuuj\".",
+    "label28": "(Ten błąd jest jeszcze nie rozwiązany)",
+    "label111": "Błąd z ilością MB do pobrania aktualizacji aplikacji.",
+    "label113": "Czasami występują problemy ze znalezieniem informacji o ilości MB",
+    "label129": "na serwerze. Pokazuje 0.00 MB do pobrania.",
+    "label130": "(Ten błąd jest jeszcze nie rozwiązany)",
+    "label25": "Błędy aplikacji (Nieznane)",
+    "label26": "Jeśli znajdziesz nowy błąd napisz o tym tutaj:",
+    "label3": "Ustawienia Aplikacji",
+    "metroButton23": "Wybór Koloru, oraz Trybu",
+    "metroButton24": "Szukaj najnowszej aktualizacji dla aplikacji",
+    "metroButton25": "Usuń pliki aplikacji / odinstaluj aplikacje",
+    "metroButton28": "Pokaż Wymagania Systemowe",
+    "metroButton32": "Zaawansowane",
+    "metroButton31": "Dla Programistów",
+    "metroButton37": "Testy",
+    "metroButton41": "Automatyczny changelog",
+    "label153": "Automatyczny changelog włączony",
+    "label152": "powoduje jego włączenie się przy uruchomieniu",
+    "label151": "aplikacji, jeśli wyłączysz aplikacja pominie go",
+    "label154": "przy uruchomieniu.",
+    "label155": "Ustaw: \"ON\" by właczyć.",
+    "label156": "Ustaw: \"OFF\" by wyłączyć.",
+    "label149": "Te ustawienia się zapiszą.",
+    "label76": "To są Ustawienia dla zaawansowanych",
+    "label77": "użytkowników, jeśli chcesz je włączyć musisz",
+    "label78": "kliknąć guzik poniżej.",
+    "label80": "Te ustawienia się zapiszą.",
+    "label21": "Uwaga!!! Te ustawienia są ",
+    "label17": "nieodwracalne!",
+    "label22": "Nie ma kolejnego ostrzeżenia!",
+    "label18": "Nie zmieniaj ich bez pewności",
+    "label19": "co robisz!",
+    "button13": "Resetuj Ustawienia",
+    "button5": "Usuń pliki aplikacji",
+    "button4": "Odinstaluj Aplikacje",
+    "label98": "Posiadana wersja Aplikacji:",
+    "label99": "Najnowsza dostępna Wersja:",
+    "label5": "pobieranie zakończone!",
+    "label37": "wszystkie pliki z folderu aplikacji!",
+    "label8": "lokalizacja /data",
+    "button11": "Awaryjne Pobieranie",
+    "button7": "Pobierz",
+    "button12": "Sprawdź wersje",
+    "button15": "Tryb Ciemny",
+    "button14": "Tryb Jasny",
+    "label104": "Testy",
+    "metroButton33": "Akcje",
+    "rjButton3": "Cofnij",
+    "metroButton30": "Wersje Gier",
+    "metroButton29": "Wersje Gier",
+    "label73": "Ta funkcja jest widoczna tylko",
+    "label74": "dla programistów.",
+    "label75": "(Opcja w Ustawieniach \"Dla Programistów\")",
+    "label9": "Nie ma dostępu do serwera!",
+    "label117": "Witaj",
+    "label109": "Funkcje Aplikacji",
+    "button23": "Kolor paneli",
+    "button25": "Domyślny",
+    "button28": "Kolor tła",
+    "button26": "Zapisz",
+    "metroButton69": "Oceń Aplikację",
+    "listBox5_1": "Ponieważ, chcę nauczyć się programować.",
+    "listBox5_2": "Ponieważ, chcę użyć kodu do swojego projektu.",
+    "listBox5_3": "Ponieważ, jestem ciekawy.",
+    "button6_1": "Minimalne",
+    "button6_2": "Zalecane",
+    "label67_true": "Twój system nie jest kompatybilny!",
+    "label67_false": "Twój system jest kompatybilny.",
+   "label2_1": "Karta Graficzna: ",
+   "label2_2": "Procesor: ",
+   "label2_3": "Windows: "
+	},
+  "Patches": {
+    "label1": "Dostępne Łatki/Poprawki:",
+    "label2": "Dostępne gry",
+    "label6": "Pobieranie poprawek",
+    "metroButton2": "Zaktualizuj listę poprawek",
+    "metroButton1": "Użyj wybranego patcha",
+    "label7": "Aplikacja \"AthermoBase\" korzysta z zasobów oraz otwartej aplikacji \"Xenia Emulator\", jednak nie jest z nią\nw żaden sposób powiązana!"
+    },
+  "Achievements": {
+"label1_1": "Niepowiązane z kontem użytkownika!",
+"label1_2": "Powiązane z twoim kontem użytkownika!",
+"label4": "Informacje o użytkowniku: ",
+"label5": "Ładowanie",
+"lbl1": "Nazwa użytkownika: ",
+"lbl2": "Punkty gracza: ",
+"lbl3": "XUID: ",
+"metroButton1": "Przeładuj informacje",
+"metroButton2": "Ustaw jako cel",
+"xauthError_1": "Wystąpił problem z tokenem xauth.",
+"xauthError_2": "Nie można znaleźć xauth.",
+"xauthError_3": "Ta gra nie posiada osiągnięć.",
+"AchievementResponse": "Postęp ogólny: Oczekiwanie na odpowiedź",
+"AchievementValid": "Postęp ogólny: ",
+"frequencyError": "Nie naciskaj przycisku od razu po uruchomieniu aplikacji Xbox.\nPoczekaj, aż się załaduje."
+  }, 
+  "Help": {
+"checkBox1": "Załącz plik log",
+"label3": "Krótko opisz znaleziony błąd.",
+"Form": "Formularz zgłoszeniowy",
+"metroButton87": "Wyślij",
+"label1_true": "Wysłano!",
+"label1_false": "Nie udało się wysłać!"
+  }
+}

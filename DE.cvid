@@ -1,43 +1,240 @@
-Startzeit:
-Super! :D
-Es geht gut!
-Schlecht!
-So kann es nicht sein!
-Animationsmodus: statisch, Foto
-Animationsmodus: Animation alle 30 Sekunden
-Animationsmodus: Animation alle
-Sekunden
-Animationsmodus: Animation alle
-Sekunde
-Animationsmodus: Animation alle
- Sekunden
-Sprache
-Aktionen
-Limit: 0/300
-Holen Sie sich Wallpaper-\nSammlungen
-App-Absturz
-Hintergrundbild-Dauer
-Kein Zugriff auf den\nServer!
-Nutzungsbedingungen
-Schreiben Sie an\nden Administrator
-Inhalt Ihrer Nachricht:
-Senden
-App-Hub
-Erstellen von App-Dateien
-Einstellungen
-Polnisch
-Englisch
-Mehr...
-Vorschau deaktivieren
-Meine Social-Media-\nInhalte
-App-Aussehen\nanpassen
-Rückgängig machen
-Dunkler Modus
-Heller Modus
-Speichern
-Neuestes Video auf dem Kanal: Marcin Dg
-Vorschau deaktivieren
-Vorschau aktivieren
-Changelog\nanzeigen
-Systemsprache: 
-(Diese Sprache ist nicht verfügbar)
+{
+"AthermoBase Hub": {
+"button1": "Zurück",
+"button2": "Meine sozialen\nMedien",
+"button3": "App-Aussehen\nanpassen",
+"button4": "Administrator\nkontaktieren",
+"button5": "Senden",
+"button8": "Speichern",
+"button9": "Dunkler Modus",
+"button10": "Heller Modus",
+"label1": "Einstellungen",
+"label3_1": "Systemsprache",
+"label3_2": "(Diese Sprache ist nicht verfügbar)",
+"label9": "Startzeit",
+"label10": "Inhalt deiner Nachricht:",
+"label11": "Kein Serverzugriff!",
+"label15_1": "Super! :D",
+"label15_2": "Alles gut!",
+"label15_3": "Schwach!",
+"label15_4": "Das geht nicht!",
+"label20": "Slide-Dauer",
+"label21": "App ausblenden",
+"label23_1": "Animationsmodus: statisches Bild",
+"label23_2": "Animationsmodus: alle 30 Sekunden animieren",
+"label23_3": "Animationsmodus: alle ",
+"label23_4": " Sekunden animieren",
+"label23_5": "Animationsmodus: alle ",
+"label23_6": " Sekunde animieren",
+"label23_7": "Animationsmodus: alle ",
+"label23_8": " Sekunden animieren",
+"label25": "Limit: 0/300",
+"linkLabel2": "Allgemeine Geschäftsbedingungen",
+"metroButton3": "Wallpaper-Sammlungen herunterladen",
+"metroButton4": "Aktionen",
+"metroButton5": "Sprache",
+"rjButton1": "App HUB",
+"rjButton2": "Neuester Film auf Kanal: Marcin Dg",
+"rjButton3": "App-Dateien erstellen",
+"rjButton7": "Polnisch",
+"rjButton8": "Englisch",
+"rjButton10": "Mehr...",
+"rjButton14": "Vorschau deaktivieren",
+"rjButton16": "Vorschau deaktivieren",
+"rjButton17": "Vorschau aktivieren",
+"rjButton18": "Changelog ansehen"
+},
+"AthermoBase": {
+"checkBox4": "Automatisches Update",
+"label131": "Um den Code anzeigen zu können, müssen Sie sich für die Whitelist anmelden.\nDie Genehmigung kann einige Zeit dauern, kommen Sie später wieder :D",
+"metroButton60": "Registrieren",
+"metroButton44": "App laden",
+"metroButton59": "Bibliotheken",
+"metroButton50": "Kopieren",
+"metroButton43": "Protokoll",
+"metroButton42": "Quellcode",
+"label124": "Entwicklerfunktionen",
+"metroButton36": "Xenia herunterladen",
+"metroButton34": "Aktionen",
+"metroButton27": "Löschen",
+"metroButton26": "Senden",
+"label112": "(Dieses Feld ist nicht erforderlich)",
+"label119": "Fehler beim Senden des Feedbacks, überprüfen Sie Ihre Internetverbindung!",
+"label108": "Feedback gesendet!",
+"metroButton8": "Ort auswählen",
+"label88": "Ganze Festplatte oder Seitendateien auswählen.",
+"metroButton22": "Spielkorrektur (Optional)",
+"label81": "Die App funktioniert nur korrekt mit Win 10 / 11!",
+"linkLabel21": "Allgemeine Geschäftsbedingungen",
+"linkLabel19": "Danksagungen",
+"metroButton21": "Spenden",
+"label14": "Klicken Sie auf einen Pfad,\num den Speicherort in eine Datei zu kopieren.",
+"metroButton16": "Xenia-Spiel deinstallieren",
+"button27": "Hintergrundverlauf",
+"button2": "Abbrechen",
+"metroButton19": "Bewerbungsformular ausfüllen",
+"metroButton15": "Xenia-Speicherort auswählen",
+"linkLabel15": "Unterstützte Spieledatenbank",
+"label87": "Scannen Sie Ihren Speicherort.",
+"checkBox3": "Liste beim erneuten Scannen löschen.",
+"label84": "Das Scannen der gesamten Festplatte dauert länger als\n das Scannen des Spieleordners!",
+"metroButton4": "Erneut scannen",
+"rjButton2": "Ihre Spiele",
+"label36": "Informationen an den Server gesendet.",
+"label4": "Folgende Daten werden übermittelt:\n\nMinimal: Benutzer-ID und App-Startzeit\nEmpfohlen: Alle Daten + Windows-System und\nGrafikkartendaten",
+"metroButton7": "Datenschutz",
+"linkLabel10": "Unterstützte Grafikkarten...",
+"checkBox2": "Windows-Treiber",
+"checkBox1": "Grafiktreiber",
+"label86": "Etwas ist schiefgegangen. :(",
+"metroButton6": "Abbrechen",
+"metroButton5": "Installieren",
+"metroButton58": "Sprache: Polnisch",
+"metroButton10": "Xenia-Spiel auswählen",
+"metroButton18": "Liste der Erfolge anzeigen",
+"metroButton13": "Xenia-Spiele bearbeiten",
+"metroButton11": "Spiel-Datei auswählen",
+"metroButton12": "Speichern",
+"label91": "Xenia Emulator für Xbox 360 Spiele",
+"button17": "Spiel deinstallieren",
+"metroButton3": "Spielanforderungen",
+"label7": "AthermoBase enthält Funktionen zum Starten von Spielen sowie zukünftige Optimierungen und Zugriff auf Xbox-Erfolge, die als Ziel in einem Rechteck in der oberen rechten Ecke des Bildschirms festgelegt werden können, selbst in Vollbildspielen, und dessen Position auf dem Bildschirm kann angepasst und gespeichert werden.\nAthermoBase Game Launcher wird auch für das Starten eines Spiels erstellt, dessen Name auf Discord erarbeitet werden kann!\n\rEin Survival-Spiel, das eine offene Welt erkundet, ist bereits in Arbeit!\n\rDas Spiel ist kostenlos und mit der Spieler-ID verknüpft.\n\rViel Spaß!",
+"metroButton2": "Installieren",
+"metroButton1": "Abbrechen",
+"metroButton92": "Information",
+"rjButton10": "Abspielen",
+"rjButton1": "Treiber",
+"rjButton7": "Einstellungen",
+"rjButton8": "Hilfe",
+"rjButton9": "Zurück",
+"label50": "App-Systemanforderungen",
+"label44": "Mindestanforderungen:",
+"label38": "System: Windows 7/10/11 (Einige Funktionen funktionieren möglicherweise nicht unter Windows 7)",
+"label39": "Erforderliche Anwendungen: PowerShell, CMD",
+"label40": "Speicher: 50 MB (für App-Dateien)",
+"label41": "RAM: 2 GB (App- und Systembetrieb)",
+"label42": "Prozessor: 2-Kern, bevorzugt: Intel Core 2 Duo 2x1.50 GHz",
+"label43": "Internetzugang: Mindestens 10 KB/s",
+"label45": "Empfohlene Anforderungen:",
+"label51": "Erforderliche Anwendungen: PowerShell Version \"7\", CMD",
+"label49": "Speicher: 100 MB (für App-Dateien)",
+"label48": "RAM: 4 GB (Gute App- und Systemleistung)",
+"label47": "Prozessor: 4-Kern, bevorzugt: Intel Core i5-4690 4x3.90GHz",
+"label46": "Internetzugang: 1 MB/s",
+"label53": "Dieses Windows-System wird nicht unterstützt!",
+"button10": "Systemkompatibilität überprüfen",
+"button16": "Zurück",
+"label33": "Hilfe",
+"label32": "App-Hauptfehler (Bekannt)",
+"label31": "Wenn ein Fehler im Zusammenhang mit dem Herunterladen auftritt, klicken Sie auf \"Fortfahren\".",
+"label24": "Das Klicken auf \"Herunterfahren\" schließt die App.",
+"label10": "(Dieser Fehler ist noch nicht behoben)",
+"label30": "Es kann ein Fehler mit \"Datei nicht gefunden\" auftreten, wenn Sie auf den fehlerhaften \"Extrahieren und Installieren\"-Button klicken, passiert nichts, wenn Sie auf \"Fortfahren\" klicken.",
+"label29": "die fehlerhafte Schaltfläche \"Extrahieren und installieren\", passiert nichts, wenn",
+"label23": "(Dieser Fehler ist noch nicht behoben)",
+"label28": "Fehler mit der MB-Menge zum Herunterladen des App-Updates.",
+"label111": "Manchmal gibt es Probleme bei der Suche nach Informationen über die MB, die auf dem Server verfügbar sind. Es zeigt 0,00 MB zum Herunterladen an.",
+"label113": "(Dieser Fehler ist noch nicht behoben)",
+"label129": "auf dem Server verfügbar ist. Es werden 0,00 MB zum Herunterladen angezeigt.",
+"label130": "(Dieser Fehler wurde noch nicht behoben)",
+"label25": "App-Fehler (Unbekannt)",
+"label26": "Wenn Sie einen neuen Fehler entdecken, schreiben Sie hier darüber:",
+"label3": "App-Einstellungen",
+"metroButton23": "Farb- und Modusauswahl",
+"metroButton24": "Nach App-Update suchen",
+"metroButton25": "App-Dateien entfernen / App deinstallieren",
+"metroButton28": "Systemanforderungen anzeigen",
+"metroButton32": "Erweitert",
+"metroButton31": "Für Entwickler",
+"metroButton37": "Tests",
+"metroButton41": "Automatisches Changelog",
+"label153": "Automatisches Changelog aktiviert",
+"label152": "verursacht, dass es beim App-Start ausgeführt wird",
+"label151": "Wenn Sie es deaktivieren, überspringt die App es",
+"label154": "beim Starten.",
+"label155": "Auf \"AN\" setzen, um es zu aktivieren.",
+"label156": "Auf \"AUS\" setzen, um es zu deaktivieren.",
+"label149": "Diese Einstellungen werden gespeichert.",
+"label76": "Dies sind Einstellungen für fortgeschrittene",
+"label77": "Benutzer; wenn Sie sie aktivieren möchten, müssen Sie",
+"label78": "auf den unten stehenden Button klicken.",
+"label80": "Diese Einstellungen werden gespeichert.",
+"label21": "Vorsicht!!! Diese Einstellungen sind ",
+"label17": "unumkehrbar!",
+"label22": "Es gibt keine weitere Warnung!",
+"label18": "Ändern Sie sie nicht ohne Gewissheit",
+"label19": "über das, was Sie tun!",
+"button13": "Einstellungen zurücksetzen",
+"button5": "App-Dateien entfernen",
+"button4": "App deinstallieren",
+"label98": "Installierte App-Version:",
+"label99": "Neueste verfügbare Version:",
+"label5": "Herunterladen abgeschlossen!",
+"label37": "alle Dateien aus dem App-Ordner!",
+"label8": "Speicherort / Daten",
+"button11": "Notfall-Download",
+"button7": "Herunterladen",
+"button12": "Versionen überprüfen",
+"button15": "Dunkler Modus",
+"button14": "Heller Modus",
+"label104": "Tests",
+"metroButton33": "Aktionen",
+"rjButton3": "Zurück",
+"metroButton30": "Spielversionen",
+"metroButton29": "Spielversionen",
+"label73": "Diese Funktion ist nur für",
+"label74": "Entwickler sichtbar.",
+"label75": "(Option in den Einstellungen \"Für Entwickler\")",
+"label9": "Kein Zugriff auf den Server!",
+"label117": "Willkommen",
+"label109": "App-Funktionen",
+"button23": "Panel-Farbe",
+"button25": "Standard",
+"button28": "Hintergrundfarbe",
+"button26": "Speichern",
+"metroButton69": "Die App bewerten",
+"listBox5_1": "Weil ich Programmieren lernen möchte.",
+"listBox5_2": "Weil ich den Code für mein Projekt nutzen möchte.",
+"listBox5_3": "Weil ich neugierig bin.",
+"button6_1": "Minimal",
+"button6_2": "Empfohlen",
+"label67_true": "Ihr System ist nicht kompatibel!",
+"label67_false": "Ihr System ist kompatibel.",
+"label2_1": "Grafikkarte: ",
+"label2_2": "Prozessor: ",
+"label2_3": "Windows: "
+},
+"Patches": {
+"label1": "Verfügbare Patches/Fixes:",
+"label2": "Verfügbare Spiele",
+"label6": "Patches herunterladen",
+"metroButton2": "Patch-Liste aktualisieren",
+"metroButton1": "Ausgewählten Patch verwenden",
+"label7": "Die Anwendung \"AthermoBase\" verwendet Ressourcen und die offene Anwendung \"Xenia Emulator\",\nist jedoch in keiner Weise damit verbunden!"
+},
+"Achievements": {
+"label1_1": "Nicht mit Benutzerkonto verknüpft!",
+"label1_2": "Mit Ihrem Benutzerkonto verknüpft!",
+"label4": "Benutzerinformationen: ",
+"label5": "Laden",
+"lbl1": "Gamertag: ",
+"lbl2": "Gamerscore: ",
+"lbl3": "XUID: ",
+"metroButton1": "Info neu laden",
+"metroButton2": "Als Ziel setzen",
+"xauthError_1": "Es gibt ein Problem mit dem bereitgestellten xauth-Token.",
+"xauthError_2": "Konnte xauth nicht finden.",
+"xauthError_3": "Dieses Spiel hat keine Erfolge",
+"AchievementResponse": "Gesamtfortschritt: Warten auf eine Antwort",
+"AchievementValid": "Gesamtfortschritt: ",
+"frequencyError": "Drücken Sie die Schaltfläche nicht direkt, wenn die Xbox-App gestartet wird.\nWarten Sie, bis sie geladen ist."
+},
+"Help": {
+"checkBox1": "Protokolldatei anhängen",
+"label3": "Beschreiben Sie kurz den gefundenen Fehler.",
+"Form": "Formular",
+"metroButton87": "Senden",
+"label1_true": "Gesendet!",
+"label1_false": "Senden fehlgeschlagen!"
+}
+}
