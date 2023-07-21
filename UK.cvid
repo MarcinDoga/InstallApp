@@ -222,12 +222,19 @@
 "lbl3": "XUID: ",
 "metroButton1": "Reload Info",
 "metroButton2": "Set as a goal",
+"gridViewColumn1": "Unlocked",
+"gridViewColumn2": "Name",
+"gridViewColumn3": "Description",
+"gridViewColumn4": "Unlock Time",
+"gridViewColumn5": "Achievement ID",
 "xauthError_1": "There is an issue with the xauth token provided.",
 "xauthError_2": "Couldnt find xauth.",
 "xauthError_3": "this game has no achievements",
 "AchievementResponse": "Overall Progress: Waiting for a response",
 "AchievementValid": "Overall Progress: ",
-"frequencyError": "Dont press the button as soon as the xbox app starts up.\nWait until it has loaded"
+"frequencyError": "Dont press the button as soon as the xbox app starts up.\nWait until it has loaded",
+"achieved": "Achieved",
+"notAchieved": "No, Achieved"
 },
 "Help": {
 "checkBox1": "Attach a log file",
@@ -236,5 +243,9 @@
 "metroButton87": "Send",
 "label1_true": "Send!",
 "label1_false": "Failed to send!"
+},
+"Rules": {
+"label1": "1. Your private information will not be shared or sent anywhere! They will be saved in the computer's memory. (Article 49 of the Personal Data Protection Act (Polisch, EU)).\r\n2. Creating a new account does not justify the last ban! (Ban is assigned to IP.)\r\n3. You can get a warning or a message from the application administrator before getting a ban to prevent it.\r\n4. The use of the application is allowed if the user does not distribute it or sell it under his own mark! Any editing or distribution is not allowed!\r\n5. Ban can get for writing swear words to administrators, or spamming.\r\n6. Any, even negative, opinion will be recognized, provided that it does not contain swear words or links to promote social media.",
+"metroButton1": "Back"
 }
 }
