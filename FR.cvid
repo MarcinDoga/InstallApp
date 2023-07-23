@@ -226,7 +226,8 @@
     "gridViewColumn2": "Nom",
     "gridViewColumn3": "Description",
     "gridViewColumn4": "Heure de déverrouillage",
-    "gridViewColumn5": "ID de réalisation",
+    "gridViewColumn5": "Pourcentage de réussite du joueur",
+    "gridViewColumn6": "ID de réalisation",
     "xauthError_1": "Il y a un problème avec le jeton xauth fourni.",
     "xauthError_2": "Impossible de trouver xauth.",
     "xauthError_3": "ce jeu n'a pas de succès",
@@ -247,5 +248,10 @@
 "Rules": {
 "label1": "1. Vos informations privées ne seront pas partagées ou envoyées ailleurs ! Elles seront enregistrées dans la mémoire de l'ordinateur. (Article 49 de la loi sur la protection des données personnelles (polonaise, UE)).\r\n2. La création d'un nouveau compte ne justifie pas le bannissement précédent ! (Le bannissement est lié à l'adresse IP.)\r\n3. Vous pouvez recevoir un avertissement ou un message de l'administrateur de l'application avant d'être banni pour l'empêcher.\r\n4. L'utilisation de l'application est autorisée si l'utilisateur ne la distribue pas ou ne la vend pas sous sa propre marque ! Toute modification ou distribution n'est pas autorisée !\r\n5. Un bannissement peut être donné pour avoir écrit des insultes aux administrateurs ou pour du spam.\r\n6. Toute opinion, même négative, sera acceptée à condition qu'elle ne contienne pas d'insultes ou de liens pour promouvoir les médias sociaux.",
 "metroButton1": "Retour"
+},
+"Achievement_Goal": {
+"label4": "Rareté : ",
+"label1": "Chargement...",
+"label5": "Pourcentage de joueurs : "
 }
 }

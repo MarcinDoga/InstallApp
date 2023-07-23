@@ -226,7 +226,8 @@
 "gridViewColumn2": "Nazwa",
 "gridViewColumn3": "Opis",
 "gridViewColumn4": "Czas Odblokowania",
-"gridViewColumn5": "ID Osiągnięcia",
+"gridViewColumn5": "Procent Ukończenia Graczy",
+"gridViewColumn6": "ID Osiągnięcia",
 "xauthError_1": "Wystąpił problem z tokenem xauth.",
 "xauthError_2": "Nie można znaleźć xauth.",
 "xauthError_3": "Ta gra nie posiada osiągnięć.",
@@ -247,5 +248,10 @@
 "Rules": {
 "label1": "1. Twoje prywatne informacje nie zostaną nigdzie udostępnione, ani wysłane! Zostaną one zapisane w pamięci komputera. (art. 49 ustawy o ochronie danych osobowych).\r\n2. Stworzenie nowego konta, nie usprawiedliwia ostatniego bana! (Ban jest przypisany do IP).\r\n3. Możesz dostać ostrzeżenie, lub wiadomość od danego administratora aplikacji przed dostaniem bana, by mu zapobiec.\r\n4. Korzystanie z aplikacji jest dozwolone, jeśli użytkownik nie rozpowszechnia jej, ani nie sprzedaje pod swoim znakiem! Jakiekolwiek edytowanie, lub rozpowszechnianie jest niedozwolone!\r\n5. Bana można dostać za pisanie przekleństw do administratorów, bądź spamowanie.\r\n6. Każda, nawet negatywna opinia zostanie uznana, pod warunkiem że nie zawiera przekleństw, ani linków do promowania mediów społecznościowych.",
 "metroButton1": "Cofnij"
+},
+"Achievement_Goal": {
+"label4": "Rzadkość: ",
+"label1": "Wczytywanie...",
+"label5": "Procent Graczy: "
 }
 }

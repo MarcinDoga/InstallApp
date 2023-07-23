@@ -226,7 +226,8 @@
     "gridViewColumn2": "Naziv",
     "gridViewColumn3": "Opis",
     "gridViewColumn4": "Vrijeme otključavanja",
-    "gridViewColumn5": "ID postignuća",
+    "gridViewColumn5": "Postotak uspješnosti igrača",
+    "gridViewColumn6": "ID postignuća",
     "xauthError_1": "Postoji problem s pruženim xauth tokenom.",
     "xauthError_2": "Nije moguće pronaći xauth.",
     "xauthError_3": "Ova igra nema postignuća.",
@@ -247,5 +248,10 @@
 "Rules": {
     "label1": "1. Vaše privatne informacije neće biti nigdje podijeljene niti poslane! Bit će pohranjene na memoriji vašeg računala. (čl. 49. Zakona o zaštiti podataka o osobama).\r\n2. Stvaranje novog računa ne opravdava prethodnu zabranu pristupa! (Zabrana je povezana s IP adresom).\r\n3. Mogli biste primiti upozorenje ili poruku od određenog administratora aplikacije prije nego što vam se izrekne zabrana kako biste je izbjegli.\r\n4. Korištenje aplikacije dopušteno je samo ako korisnik ne distribuira niti prodaje pod vlastitim znakom! Bilo kakvo uređivanje ili distribuiranje je zabranjeno!\r\n5. Zabranu pristupa možete dobiti zbog slanja uvredljivih poruka administratorima ili zbog spamiranja.\r\n6. Svaki, pa čak i negativan komentar bit će prihvaćen, pod uvjetom da ne sadrži uvrede niti poveznice za promociju društvenih medija.",
     "metroButton1": "Natrag"
-  }
+  },
+"Achievement_Goal": {
+"label4": "Rijetkost: ",
+"label1": "Učitavanje...",
+"label5": "Postotak igrača: "
+}
 }

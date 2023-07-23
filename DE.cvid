@@ -226,7 +226,8 @@
 "gridViewColumn2": "Name",
 "gridViewColumn3": "Beschreibung",
 "gridViewColumn4": "Entsperrzeit",
-"gridViewColumn5": "Leistungs-ID",
+"gridViewColumn5": "Spieler Abschlussquote",
+"gridViewColumn6": "Erfolgs-ID",
 "xauthError_1": "Es gibt ein Problem mit dem bereitgestellten xauth-Token.",
 "xauthError_2": "Konnte xauth nicht finden.",
 "xauthError_3": "Dieses Spiel hat keine Erfolge",
@@ -247,5 +248,10 @@
 "Rules": {
     "label1": "1. Deine privaten Informationen werden nicht geteilt oder irgendwohin gesendet! Sie werden im Speicher des Computers gespeichert. (Artikel 49 des Gesetzes zum Schutz personenbezogener Daten (polnisch, EU)).\r\n2. Das Erstellen eines neuen Kontos rechtfertigt nicht den letzten Bann! (Der Bann wird der IP-Adresse zugewiesen.)\r\n3. Du kannst eine Warnung oder eine Nachricht vom Anwendungsadministrator erhalten, bevor ein Bann verhängt wird, um dies zu verhindern.\r\n4. Die Nutzung der Anwendung ist erlaubt, solange der Benutzer sie nicht unter seinem eigenen Namen verbreitet oder verkauft! Jegliche Bearbeitung oder Verbreitung ist nicht gestattet!\r\n5. Ein Bann kann verhängt werden, wenn Beleidigungen an Administratoren geschrieben oder gespammt werden.\r\n6. Jede, auch negative, Meinung wird akzeptiert, vorausgesetzt, sie enthält keine Beleidigungen oder Links zur Förderung sozialer Medien.",
     "metroButton1": "Zurück"
-    }
+    },
+"Achievement_Goal": {
+"label4": "Seltenheit: ",
+"label1": "Wird geladen...",
+"label5": "Spieleranteil: "
+}
 }
