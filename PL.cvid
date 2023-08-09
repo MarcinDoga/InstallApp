@@ -255,5 +255,10 @@
 "label4": "Rzadkość: ",
 "label1": "Wczytywanie...",
 "label5": "Procent Graczy: "
+},
+"Terms_and_Conditions": {
+"Form": "Twórcy i Atrybucja",
+"label1": "Twórca:\n\nMarcin Doga - Główny twórca aplikacji\n\nAdministratorzy:\n\nMarcin Doga - Administrator aplikacji\nkrystalizen - Administrator aplikacji\n\nTesterzy:\n\nNamir Doga - Tester aplikacji\nkrystalizen - Tester aplikacji\n\nTwórcy i Licencje:\n\nItsLogic - Inspiracje dotyczące osiągnięć Xbox\nbenvanik - Używane oprogramowanie open source Xenia Emulator\nBing Image Generator API - Używane API Image Generator\nMicrosoft Xbox Live API - Używane API Xbox\nGithub API - Używane API Github (Octokit)\nYouTube API - Używane API YouTube\n\n",
+"metroButton1": "Cofnij"
 }
 }

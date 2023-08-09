@@ -255,5 +255,10 @@
 "label4": "Rijetkost: ",
 "label1": "Učitavanje...",
 "label5": "Postotak igrača: "
+},
+"Terms_and_Conditions": {
+"Form": "Kreatori i Pripisivanje",
+"label1": "Kreator:\n\nMarcin Doga - Glavni kreator aplikacije\n\nAdministratori:\n\nMarcin Doga - Administrator aplikacije\nkrystalizen - Administrator aplikacije\n\nTesteri:\n\nNamir Doga - Tester aplikacije\nkrystalizen - Tester aplikacije\n\nKreatori i Druge Dozvole:\n\nItsLogic - Inspiracija za Xbox postignuća\nbenvanik - Korišteni open-source softver Xenia Emulator\nBing Image Generator API - Korišteni Image Generator API\nMicrosoft Xbox Live API - Korišteni Xbox API\nGithub API - Korišteni Github API (Octokit)\nYouTube API - Korišteni YouTube API\n\n",
+"metroButton1": "Natrag"
 }
 }

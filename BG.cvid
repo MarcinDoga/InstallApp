@@ -255,5 +255,10 @@
 "label4": "Рядкост: ",
 "label1": "Зареждане...",
 "label5": "Процент на играчите: "
+},
+"Terms_and_Conditions": {
+"Form": "Създатели и Признание",
+"label1": "Създател:\n\nМарчин Дога - Главен създател на приложението\n\nАдминистратори:\n\nМарчин Дога - Администратор на приложението\nkrystalizen - Администратор на приложението\n\nТестери:\n\nНамир Дога - Тестер на приложението\nkrystalizen - Тестер на приложението\n\nСъздатели и Лицензи:\n\nItsLogic - Вдъхновение от Xbox постижения\nbenvanik - Използван Xenia Emulator - софтуер с отворен код\nBing Image Generator API - Използван Image Generator API\nMicrosoft Xbox Live API - Използван Xbox API\nGithub API - Използван Github API (Octokit)\nYouTube API - Използван YouTube API\n\n",
+"metroButton1": "Обратно"
 }
 }
