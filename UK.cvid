@@ -261,5 +261,14 @@
 "Form": "Creators and Attribution",
 "label1": "Creator:\n\nMarcin Doga - Main app creator\n\nAdministrators:\n\nMarcin Doga - App administrator\nkrystalizen - App administrator\n\nTesters:\n\nNamir Doga - App tester\nkrystalizen - App tester\n\nCreators and Licenses:\n\nItsLogic - Xbox achievements inspiration\nbenvanik - Utilized open-source software Xenia Emulator\nBing Image Generator API - Used Image Generator API\nMicrosoft Xbox Live API - Used Xbox API\nGithub API - Used Github API (Octokit)\nYouTube API - Used YouTube API\n\n",
 "metroButton1": "Back"
+},
+"Supported_Graphic": {
+    "Form": "Supported Graphics Cards",
+    "label1": "The list is minimal and will expand over time.",
+    "label2": "Supported Graphics Cards:",
+    "label3": "NVIDIA Quadro FX / NVIDIA Quadro RTX\r\nNVIDIA GeForce RTX 20/30/40 series\r\nNVIDIA GeForce GTX 900/10/16 series\r\nNVIDIA TITAN RTX/ GTX TITAN / XP / V series\r\nNVIDIA RTX\r\nIntel(R) HD Graphics\r\nIntel(R) ARC 3/5/7 series",
+    "label4": "Work is in progress on this:",
+    "label5": "AMD ATI Mobility Radeon HD\r\nAMD Radeon RX 500/5000/8000\r\nAMD Radeon RX Vega 50/60\r\nAMD Radeon Pro\r\nNVIDIA GT 800/900/10 series",
+    "label6": "Release Date: 19th December 2022 Last Updated: 30th May 2023"
 }
 }

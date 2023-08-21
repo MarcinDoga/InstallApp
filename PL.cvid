@@ -261,5 +261,14 @@
 "Form": "Twórcy i Atrybucja",
 "label1": "Twórca:\n\nMarcin Doga - Główny twórca aplikacji\n\nAdministratorzy:\n\nMarcin Doga - Administrator aplikacji\nkrystalizen - Administrator aplikacji\n\nTesterzy:\n\nNamir Doga - Tester aplikacji\nkrystalizen - Tester aplikacji\n\nTwórcy i Licencje:\n\nItsLogic - Inspiracje dotyczące osiągnięć Xbox\nbenvanik - Używane oprogramowanie open source Xenia Emulator\nBing Image Generator API - Używane API Image Generator\nMicrosoft Xbox Live API - Używane API Xbox\nGithub API - Używane API Github (Octokit)\nYouTube API - Używane API YouTube\n\n",
 "metroButton1": "Cofnij"
+},
+"Supported_Graphic": {
+"Form": "Obsługiwane Karty",
+"label1": "Lista jest minimalna, i będzie się powiększać z biegiem czasu.",
+"label2": "Wspierane Karty Graficzne: ",
+"label3": "NVIDIA Quadro FX / NVIDIA Quadro RTX\r\nNVIDIA GeForce RTX 20/30/40 series\r\nNVIDIA GeForce GTX 900/10/16 series\r\nNVIDIA TITAN RTX/ GTX TITAN / XP / V series\r\nNVIDIA RTX\r\nIntel(R) HD Graphic\r\nIntel(R) ARC 3/5/7 series",
+"label4": "Nad tym trwa praca: ",
+"label5": "AMD ATI Mobility Radeon HD\r\nAMD Radeon RX 500/5000/8000\r\nAMD Radeon RX Vega 50/60\r\nAMD Radeon Pro\r\nNVIDIA GT 800/900/10 series",
+"label6": "Data Wydania: 19.12.2022 Ostatnio Aktualizowane: 30.05.2023"
 }
 }

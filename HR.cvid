@@ -261,5 +261,14 @@
 "Form": "Kreatori i Pripisivanje",
 "label1": "Kreator:\n\nMarcin Doga - Glavni kreator aplikacije\n\nAdministratori:\n\nMarcin Doga - Administrator aplikacije\nkrystalizen - Administrator aplikacije\n\nTesteri:\n\nNamir Doga - Tester aplikacije\nkrystalizen - Tester aplikacije\n\nKreatori i Druge Dozvole:\n\nItsLogic - Inspiracija za Xbox postignuća\nbenvanik - Korišteni open-source softver Xenia Emulator\nBing Image Generator API - Korišteni Image Generator API\nMicrosoft Xbox Live API - Korišteni Xbox API\nGithub API - Korišteni Github API (Octokit)\nYouTube API - Korišteni YouTube API\n\n",
 "metroButton1": "Natrag"
+},
+"Supported_Graphic": {
+    "Form": "Podržane Grafičke Kartice",
+    "label1": "Popis je minimalan i će se povećavati s vremenom.",
+    "label2": "Podržane Grafičke Kartice:",
+    "label3": "NVIDIA Quadro FX / NVIDIA Quadro RTX\r\nNVIDIA GeForce RTX serija 20/30/40\r\nNVIDIA GeForce GTX serija 900/10/16\r\nNVIDIA TITAN RTX/ GTX TITAN / XP / V serija\r\nNVIDIA RTX\r\nIntel(R) HD Grafika\r\nIntel(R) ARC serija 3/5/7",
+    "label4": "Na ovome se radi:",
+    "label5": "AMD ATI Mobility Radeon HD\r\nAMD Radeon RX 500/5000/8000\r\nAMD Radeon RX Vega 50/60\r\nAMD Radeon Pro\r\nNVIDIA GT serija 800/900/10",
+    "label6": "Datum Izdavanja: 19. prosinca 2022. Zadnje Ažurirano: 30. svibnja 2023."
 }
 }

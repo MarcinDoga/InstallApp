@@ -261,5 +261,14 @@
 "Form": "Създатели и Признание",
 "label1": "Създател:\n\nМарчин Дога - Главен създател на приложението\n\nАдминистратори:\n\nМарчин Дога - Администратор на приложението\nkrystalizen - Администратор на приложението\n\nТестери:\n\nНамир Дога - Тестер на приложението\nkrystalizen - Тестер на приложението\n\nСъздатели и Лицензи:\n\nItsLogic - Вдъхновение от Xbox постижения\nbenvanik - Използван Xenia Emulator - софтуер с отворен код\nBing Image Generator API - Използван Image Generator API\nMicrosoft Xbox Live API - Използван Xbox API\nGithub API - Използван Github API (Octokit)\nYouTube API - Използван YouTube API\n\n",
 "metroButton1": "Обратно"
+},
+"Supported_Graphic": {
+    "Form": "Поддържани Графични Карти",
+    "label1": "Списъкът е минимален и ще се разширява с времето.",
+    "label2": "Поддържани Графични Карти:",
+    "label3": "NVIDIA Quadro FX / NVIDIA Quadro RTX\r\nСерии NVIDIA GeForce RTX 20/30/40\r\nСерии NVIDIA GeForce GTX 900/10/16\r\nСерии NVIDIA TITAN RTX/ GTX TITAN / XP / V\r\nNVIDIA RTX\r\nIntel(R) HD Graphics\r\nСерии Intel(R) ARC 3/5/7",
+    "label4": "Работи се по това:",
+    "label5": "AMD ATI Mobility Radeon HD\r\nAMD Radeon RX 500/5000/8000\r\nAMD Radeon RX Vega 50/60\r\nAMD Radeon Pro\r\nСерии NVIDIA GT 800/900/10",
+    "label6": "Дата на Издаване: 19 декември 2022 Последно Обновено: 30 май 2023"
 }
 }
