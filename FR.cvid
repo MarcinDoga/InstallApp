@@ -228,6 +228,7 @@
     "label159false": "L'utilisateur n'a pas de compte joueur !",
     "label159you": "C'est vous, vous ne pouvez pas vous inviter vous-même !",
     "blockedWarn": "Utilisateur bloqué !",
+    "metroButton66": "Supprimer un Ami",
     "label159NotExists": "L'utilisateur n'existe pas !",
     "messageBoxNickWarn": "Êtes-vous sûr de vouloir supprimer votre compte ?\nIl n'y a pas de retour en arrière possible !"
   },

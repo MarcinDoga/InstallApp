@@ -227,6 +227,7 @@
 "label159true": "Usage data collected!",
 "label159false": "User does not have a player account!",
 "label159you": "This is you, you cannot invite yourself!",
+"metroButton66": "Delete Friend",
 "blockedWarn": "User Blocked!",
 "label159NotExists": "User does not exist!",
 "messageBoxNickWarn": "Are you sure you want to delete your account?\nThere's no turning back from this!"
