@@ -280,6 +280,7 @@
     "label7_4": "Error: Cannot uninstall a running collection!",
     "label7_5": "Error: Failed to extract the collection!",
     "label7_6": "Error: Collection already exists!",
+    "label7_7": "Collection extraction successful!",
     "label9_1": "Application shutdown in: ",
     "label9_2": " seconds",
     "label9_3": " seconds",
