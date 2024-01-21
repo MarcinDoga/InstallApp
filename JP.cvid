@@ -40,6 +40,8 @@
       "metroButton8_2": "音楽を停止",
       "metroButton9": "イベントテーマ",
       "metroButton9_1": "平均テーマ",
+      "metroButton10": "サウンドエフェクトを無効にする",
+      "metroButton10_1": "サウンドエフェクトを有効にする",
       "label5": "タイトル:",
       "label5_1": "実行者:",
       "label5_2": " (ダウンロード済み)",

@@ -40,6 +40,8 @@
 "metroButton8_2": "Stop Music",
 "metroButton9": "Event Theme",
 "metroButton9_1": "Average Theme",
+"metroButton10": "Disable Sounds Effects",
+"metroButton10_1": "Enable Sounds Effects",
 "label5": "Title:",
 "label5_1": "Executor:",
 "label5_2": " (Downloaded)",
